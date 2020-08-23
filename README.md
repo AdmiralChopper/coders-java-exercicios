@@ -1,2 +1,1 @@
-# coders-java-exercicios
-Repositório para agrupar os exercícios realizados do curso Santander Coders Java 2020 - Turma 01 / Manhã
+Repositório para exercícios gerais que não utilizem Java para o curso Santander Coders by Digital House
